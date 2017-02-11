@@ -1,3 +1,3 @@
-# Arduino DHT11 library
+# Arduino DHT library
 
 Tested on DHT11
